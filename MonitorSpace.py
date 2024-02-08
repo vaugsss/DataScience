@@ -124,7 +124,7 @@ spacemonitor2df = spacemonitor2df.drop_duplicates(subset=['DDNAME'])
 
 spacemonitor2df = spacemonitor2df.drop('VOLSER',axis=1)
 
-spacemonitor2df.to_csv(r'c:\Users\VitorAugustoSilighin\Documents\Python\spacemonitortemp2.txt',index=False,sep='|')
+spacemonitor2df.to_csv(r'yourpathinyourPC',index=False,sep='|')
 
 #Step8 - Merge both spacemonitor1 and spacemonitor2
 #unir os dataframes anteriores e salvar num txt
@@ -134,4 +134,4 @@ spacemonitor2df = spacemonitor2df.reset_index(drop=True)
 spacemonitorfinal = pd.concat([spacemonitor2df,spacemonitor1df],axis=1)
 
 #Step9 - Saves the final file to a txt document.
-spacemonitorfinal.to_csv(r'c:\Users\VitorAugustoSilighin\Documents\Python\spacemonitorfinal.txt',index=False,sep='|')
+spacemonitorfinal.to_csv(r'yourpathinyourPC,sep='|')
