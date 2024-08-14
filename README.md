@@ -1,7 +1,7 @@
 # DataScience
 Hello and welcome to my personal repository :) This will contain my tests and works using Python, R, SQL and another tools.
 
-### [**Smartphone Models**](https://github.com/vaugsss/DataScience/blob/main/Smartphone_Models_Clustering.ipynb)
+### [**Smartphone Models**](https://github.com/vaugsss/DataScience/blob/main/Smarpthones_Clustering.ipynb)
 
 Project in python. An analysis that can assist retailers which sells smartphone. Also available in [Kaggle](https://www.kaggle.com/code/vaugss/smartphones-clustering)
 
