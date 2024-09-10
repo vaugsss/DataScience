@@ -5,7 +5,7 @@ Hello and welcome to my personal repository :) This will contain my tests and wo
 
 Project in python. An analysis that can assist retailers which sells smartphone. Also available in [Kaggle](https://www.kaggle.com/code/vaugss/smartphones-clustering)
 
-### [**Coutnries Indexes**](https://github.com/vaugsss/DataScience/blob/main/Countries_Indexes.ipynb) 
+### [**Countries Indexes**](https://github.com/vaugsss/DataScience/blob/main/Countries_Indexes.ipynb) 
 
 Project in Python. Factorial Analysis to reduce a table and create a new one based on previous Cost of Living Indexes. Also available in [Kaggle](https://www.kaggle.com/code/vaugss/notebook20e12268b6)
 
