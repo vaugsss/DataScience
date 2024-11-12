@@ -2,8 +2,10 @@
 Hello and welcome to my personal repository :) This will contain my tests and works using Python, R, SQL and another tools.
 
 ### [**Smartphone Models**](https://github.com/vaugsss/DataScience/blob/main/Smarpthones_Clustering.ipynb)
-
 Project in python. An analysis that can assist retailers which sells smartphone. Also available in [Kaggle](https://www.kaggle.com/code/vaugss/smartphones-clustering)
+
+### [**Linear Regression - User Behavior with Smartphones**](https://github.com/vaugsss/DataScience/blob/main/linear%20regression%20model%20-%20user%20behavior%20dataset.ipynb)
+Project in python. Linear Regression based on the Screen on Time of users. 
 
 ### [**Data Science Professions**](https://github.com/vaugsss/DataScience/blob/main/MCA%20Analysis%20for%20Data%20Science%20professions.ipynb)
 Project in Python. MCA analysis for Data Science professions, checking the similarities for some categorical variables. Also available in [Kaggle](https://www.kaggle.com/code/vaugss/notebooke97ad59cc0)
